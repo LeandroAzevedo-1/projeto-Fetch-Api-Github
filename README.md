@@ -10,5 +10,6 @@ Site da API : [https://docs.github.com/pt/rest/guides/getting-started-with-the-r
 
 * Feito também o conceito de validação com js
 
-veja o resultado aqui: []
+veja o resultado aqui: [https://leandroazevedo-1.github.io/projeto-Fetch-Api-Github/] 
+            Dígite o nome do usuário para buscar 
 
